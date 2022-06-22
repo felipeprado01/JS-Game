@@ -1,7 +1,7 @@
 # Falling Squares
 ## A JS game created using JS and HTML
 
-Available in: https://felipeprado01.github.io/JS-Game/
+**Available in: https://felipeprado01.github.io/JS-Game/**
 
 In this game, there're squares that fall from the screen. The objective is to select the correct kind of number according to it's value.
 For example, if the number in the square is even, the player must select the "even" button.
